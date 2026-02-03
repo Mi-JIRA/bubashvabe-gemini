@@ -2,5 +2,5 @@ fastapi
 uvicorn
 twilio
 python-multipart
-google-generativeai
 requests
+google-generativeai>=0.7.2
